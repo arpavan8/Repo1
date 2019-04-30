@@ -1,6 +1,5 @@
 <html>
 <body>
-<<<<<<< HEAD
-<h2>Hello World!pavan abbaraju</h2>
+<h2>Hello World!pavan raju abbaraju</h2>
 </body>
 </html>
